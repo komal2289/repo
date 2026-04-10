@@ -1,4 +1,3 @@
-package JAVAPgms;
 class HelloWorld
 {
   public static void main(String[] args)
